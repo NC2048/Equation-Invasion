@@ -1,2 +1,8 @@
-# Equation-Invasion
-King Slime has invaded and attacked your planet! It is your duty to save your people from the tyrant. Fight your way through three levels or trials, using your powers to defeat the minions and confront the King in the last fight.
+# EquationInvasion
+ This is my CodeNinja Blackbelt Game Project in Unity   
+ 
+ King Slime has invaded your land! Go through 3 levels or trials, to confront the tyrant in the final battle.  
+
+ You need to play with both your keyboards as well as your mouse.
+
+ Enjoy.
